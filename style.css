@@ -1,4 +1,19 @@
 html {
   font-family: "Source Sans Pro", sans-serif;
+}
 
+.text-align-center {
+  text-align: center;
+}
+
+.white-text {
+  color: white;
+}
+
+.pb-50 {
+   padding-bottom: 50px;
+}
+
+.justify-center {
+  justify-content: center;
 }
